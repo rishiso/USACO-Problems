@@ -1,2 +1,2 @@
 # USACO-Problems
-Solutions to USACO training problems
+These are my solutions to the USACO training problems. Most of these will probably be in Python 3.
