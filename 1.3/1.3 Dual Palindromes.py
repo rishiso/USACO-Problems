@@ -11,9 +11,6 @@ cont = cont.split(" ")
 p_amount = int(cont[0])
 n = int(cont[1]) + 1
 
-print(cont)
-
-
 def convert(num, b):
     res = []
     while num:
