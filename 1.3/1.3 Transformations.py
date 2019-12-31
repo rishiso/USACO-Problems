@@ -61,5 +61,3 @@ elif original == final:
     w.write("6\n")
 else:
     w.write("7\n")
-
-print(ninety(original))
